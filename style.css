@@ -1,0 +1,120 @@
+#title {
+  background-color: #ff4c68;
+  color: white;
+  /* height: 90vh; */
+}
+html {
+  scroll-behavior: smooth;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.title-pad {
+  padding: 6% 3% 3% 2%;
+}
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.btn-pad {
+  margin: 6% 3% 0% 0%;
+}
+.nav-link {
+  margin: 0px 1rem;
+}
+
+.phone img {
+  overflow: hidden;
+  width: 60%;
+  height: auto;
+  margin-left: 5%;
+  margin-top: 4%;
+  transform: rotate(25deg);
+  /* position: absolute;
+  background-size: contain; */
+}
+#features {
+  padding: 5% 0%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+.text-center {
+  padding: 1rem 1rem;
+}
+h3 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 1.5rem;
+}
+.para {
+  color: #8f8f8f;
+}
+.feature-logo {
+  margin-bottom: 2rem;
+}
+.feature-logo:hover {
+  color: white;
+}
+/* testimonials section */
+#testimonials {
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+}
+#testimonials h2 {
+  font-weight: bold;
+  /* line-height: 1.5rem; */
+  font-size: 3rem;
+}
+#testimonials img {
+  border-radius: 100%;
+  width: 11%;
+  margin: 1.5rem 2rem 2rem 2rem;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+/* press section */
+#press {
+  background-color: #ff4c68;
+  padding-bottom: 6%;
+  text-align: center;
+}
+#press img {
+  width: 15%;
+  margin: 1rem 2rem;
+}
+.btn-width {
+  width: 100%;
+}
+/* pricing section */
+#pricing {
+  padding: 5% 5%;
+  text-align: center;
+}
+#pricing .col {
+  padding: 3rem 1rem;
+}
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+  padding: 9% 13%;
+}
+#cta h3 {
+  font-size: 3.5rem;
+}
+
+#footer {
+  padding: 5% 0%;
+  text-align: center;
+  color: #8f8f8f;
+}
+#footer i {
+  margin: 0px 6px;
+}
